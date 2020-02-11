@@ -3,7 +3,7 @@
 
 bruhboard = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def display_board(board)
+def display_board(bruhboard)
   puts " #{board[0]}  | #{board[1]}  | #{board[2]}   "
   puts "-----------"
   puts " #{board[3]}  | #{board[4]}  | #{board[5]}  "
